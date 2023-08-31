@@ -15,4 +15,5 @@
 14- Script 14-copy_html : A script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 15- Script 100-lets_move : A script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 16- Script 101-clean_emacs : A script that deletes all files in the current working directory that end with the character ~.
-17- Script 
+17- Script 102-tree : A script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory."
+18- Script 
