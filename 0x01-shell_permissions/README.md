@@ -1,5 +1,5 @@
 0- Script 0-iam_betty : Create a script that switches the current user to the user betty.
-1- Script 
+1- Script 1-who_am_i : Write a script that prints the effective username of the current user.
 2- Script 
 3- Script 
 4- Script 
