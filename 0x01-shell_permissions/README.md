@@ -7,7 +7,7 @@
 6- Script 6-multiple_permissions : Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 7- Script 7-everybody : Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 8- Script 8-James_Bond : James Bond
-9- Script
+9- Script 9-John_Doe : John Doe
 10- Script 
 11- Script 
 12- Script
