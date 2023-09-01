@@ -10,7 +10,7 @@
 9- Script 9-John_Doe : John Doe
 10- Script 10-mirror_permissions : Look in the mirror
 11- Script 11-directories_permissions : Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
-12- Script
+12- Script 12-directory_permissions : Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 13- Script 
 14- Script 
 15- Script 
