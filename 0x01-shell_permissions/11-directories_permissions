@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l | grep '^d' | awk '{print $NF}' | xargs -I {} chmod ugo+x {}

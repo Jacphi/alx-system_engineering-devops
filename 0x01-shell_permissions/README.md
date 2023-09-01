@@ -9,7 +9,7 @@
 8- Script 8-James_Bond : James Bond
 9- Script 9-John_Doe : John Doe
 10- Script 10-mirror_permissions : Look in the mirror
-11- Script 
+11- Script 11-directories_permissions : Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12- Script
 13- Script 
 14- Script 
