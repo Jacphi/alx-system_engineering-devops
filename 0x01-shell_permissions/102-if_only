@@ -1,0 +1,2 @@
+#!/bin/bash
+suco chown --from=guillaume betty hello

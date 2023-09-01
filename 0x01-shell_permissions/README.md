@@ -14,5 +14,5 @@
 13- Script 13-change_group : Write a script that changes the group owner to school for the file hello
 14- Script 100-change_owner_and_group : Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 15- Script 101-symbolic_link_permissions : Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
-16- Script
+16- Script 102-if_only : Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 17- Script 
