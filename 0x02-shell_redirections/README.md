@@ -1,5 +1,5 @@
-0- Script 0-hello_world Write a script that prints “Hello, World”, followed by a new line to the standard output.
-1- Script 
+0- Script 0-hello_world : Write a script that prints “Hello, World”, followed by a new line to the standard output.
+1- Script 1-confused_smiley : Write a script that displays a confused smiley "(Ôo)'. 
 2- Script 
 3- Script 
 4- Script 
